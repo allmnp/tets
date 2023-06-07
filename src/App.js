@@ -1,4 +1,4 @@
-import "./styles.css";
+import "./index.css";
 import "@rainbow-me/rainbowkit/styles.css";
 import { configureChains, createClient, WagmiConfig } from "wagmi";
 import { bscTestnet } from "wagmi/dist/chains";
